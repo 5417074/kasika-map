@@ -19,7 +19,7 @@
     "babel-loader": "^8.0.5",
     "gh-pages": "^2.2.0",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.1"
   },
   "homepage": "https://5417074.github.io/kasika-map"
